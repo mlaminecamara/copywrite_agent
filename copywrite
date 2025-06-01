@@ -12,7 +12,7 @@
           "parameters": [
             {
               "name": "Authorization",
-              "value": "Bearer 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"
+              "value": "Bearer "
             }
           ]
         },
